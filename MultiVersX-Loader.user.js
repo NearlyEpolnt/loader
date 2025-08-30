@@ -2,7 +2,7 @@
 // @name         MultiVersX Auto Loader
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  попка
+// @description  да
 // @author       я
 // @match        *://app.zoom.us/*
 // @grant        none
